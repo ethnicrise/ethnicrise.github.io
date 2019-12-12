@@ -29,9 +29,9 @@ force-https: True
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
+author: "Alex Gil"
+title: "The Contradictions of Ethnic Studies"
+description: ""
 keywords: "smith, jones, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
 
@@ -55,8 +55,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "\"Knowledge of self, responsible scholarship.\""
+  - text: "\"Ethnic Studies now.\""
+  - text: "\"No justice, no peace.\""
 
 me-img: "/img/jetpacktocat.png"
 
