@@ -198,9 +198,9 @@ keybase-in-footer: True
 # Sections shown in the index page
 
 pages_list:
+  About: 'about'
   Roundtable: 'roundtable'
   LorgiaFest: 'lorgiafest'
-  About: 'about'
   # Blog: 'latest-post'
   # Timeline: 'timeline'
   Contact: 'contact'
