@@ -31,10 +31,10 @@
 
           {% comment %}{% include share.html %}{% endcomment %}
 
-          {% if jekyll.environment == "production" %}
+          {% if page.comments %}
             {% include comments.html %}
           {% endif %}
-
+        
 
           <hr />
 
