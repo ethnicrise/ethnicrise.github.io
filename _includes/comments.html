@@ -2,6 +2,7 @@
 <!-- Disqus Comments Start -->
 
 <div id="disqus_thread"></div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script>
 
 /**
@@ -19,6 +20,7 @@ s.src = 'https://ethnicrise.disqus.com/embed.js';
 s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
+$("#disqus_thread").append("<div class='hide-social-discuss'></div>")
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 

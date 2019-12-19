@@ -8,9 +8,18 @@
   <br class="visible-xs-block">
   <a href="{{site.baseurl}}{{post.url}}">
     <strong>{{ post.title }}</strong>
-  </a>
-  <br class="visible-xs-block">
-  <small><a href="{{site.baseurl}}{{post.url}}#disqus_thread">Comments</a></small>
+  </a><br>
+  <p>
+          {% for author in post.authors %}
+            {% if forloop.length == 1 %}
+                <span class="author">{{ author.name }}</span>
+            {% elsif forloop.length == 2 %}{% if forloop.last == true %}<span class="author">and {{ author.name }}</span>{% else %}<span class="author">{{ author.name }}</span>{% endif %}{% else %}{% if forloop.last == true %}<span class="author">and {{ author.name }}</span>{% else %}<span class="author">{{ author.name }}</span>, {% endif %}{% endif %}{% endfor %}
+   </p>
+   <p class="prose">
+   	{{post.summary}}
+   </p>
+<!--   <br class="visible-xs-block">
+  <small><a href="{{site.baseurl}}{{post.url}}#disqus_thread">Comments</a></small> -->
 </h4>
 
 <!-- Post List End -->

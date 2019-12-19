@@ -64,6 +64,13 @@ p {
     }
 }
 
+
+p.prose {
+    text-decoration: none;
+    text-transform: none;
+}
+
+
 div {
   -webkit-user-select: text;
   -moz-user-select: text;
@@ -450,4 +457,16 @@ body {
 
 .fourofour {
   border: 1px solid $primary-color !important;
+}
+
+.hide-social-discuss {
+    background: black; // change color according to your site back.
+    height: 20px;
+    position: relative;
+    width: 80%;
+    top: -60px;
+}
+
+.thread-share-bar-buttons {
+    display: none;
 }
