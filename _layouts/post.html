@@ -18,7 +18,7 @@
 
           <h2><strong>{{ page.title }}</strong></h2>
           <h4>
-            <strong>{{ page.date | date_to_string }}</strong>
+            <strong>{{ page.date | date_to_string }}</strong> | 
             <small>
               <a href="{{site.baseurl}}{{page.url }}#disqus_thread">Comments</a>
               <br />
@@ -28,7 +28,7 @@
           <section class="text-justify">
             {{ page.content | markdownify }}
           </section>
-
+          
 
           <hr />
 

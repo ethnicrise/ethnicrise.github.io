@@ -17,8 +17,6 @@
 
         {{ page.content | markdownify }}
 
-        <p>HELLO WORLD</p>
-
         <div>
           {% for post in paginator.posts %}
             {% include post-list.html%}
