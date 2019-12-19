@@ -1,7 +1,7 @@
 
 <!-- Post List Start -->
 
-<h4 align="left">
+<h4 align="left" class="post-info">
   <strong>{{ post.date | date_to_string }}</strong>
   <small>
   .</small>
@@ -9,17 +9,18 @@
   <a href="{{site.baseurl}}{{post.url}}">
     <strong>{{ post.title }}</strong>
   </a><br>
-  <p>
+  <p class="bylines">
           {% for author in post.authors %}
             {% if forloop.length == 1 %}
                 <span class="author">{{ author.name }}</span>
             {% elsif forloop.length == 2 %}{% if forloop.last == true %}<span class="author">and {{ author.name }}</span>{% else %}<span class="author">{{ author.name }}</span>{% endif %}{% else %}{% if forloop.last == true %}<span class="author">and {{ author.name }}</span>{% else %}<span class="author">{{ author.name }}</span>, {% endif %}{% endif %}{% endfor %}
-   </p>
+   </p></h4>
    <p class="prose">
    	{{post.summary}}
    </p>
+   <br>
 <!--   <br class="visible-xs-block">
   <small><a href="{{site.baseurl}}{{post.url}}#disqus_thread">Comments</a></small> -->
-</h4>
+
 
 <!-- Post List End -->
