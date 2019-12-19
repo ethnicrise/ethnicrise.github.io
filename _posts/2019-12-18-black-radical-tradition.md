@@ -3,8 +3,9 @@ layout: post
 section-type: post
 comments: true
 title: "A Black Radical Tradition Without Borders"
-summary: "In this post, nunc congue nisi vitae suscipit tellus mauris. Faucibus nisl tincidunt eget nullam non nisi est. Tincidunt lobortis feugiat vivamus at augue. Eu facilisis sed odio morbi quis commodo odio aenean sed. Pharetra et ultrices neque ornare aenean euismod. Sit amet est placerat in egestas. Elementum sagittis vitae et leo duis."
+summary: "In this powerful epistolary exchange, Robin D. G. Kelley (UCLA) and Laurent Dubois (Duke U.) respond to a set of guiding questions about the importance of thinking, theorizing, and historicizing race and racial blackness globally, internationally, and transnationally."
 pid: rt3
+permalink: /roundtable/black-radical-tradition/
 authors:
   - name: Robin Kelley
     img: robin-kelley.jpg
@@ -15,10 +16,9 @@ authors:
 ---
 
 
-What is the importance of thinking, theorizing, and historicizing race
-and racial blackness globally or internationally/transnationally? Which
-black international/global movements, struggles, revolutions have been
-particularly formative for your own work?
+Among other fields, <em>The Borders of Dominicanidad</em> resonates in rich ways with the interdisciplinary field of Black Studies, writ globally. In the powerful epistolary exchange below, Robin D. G. Kelley (UCLA) and Laurent Dubois (Duke University) respond to a set of guiding questions about the importance of thinking, theorizing, and historicizing race and racial blackness globally, internationally, and transnationally.
+
+Dubois and Kelley address a global black radical tradition, its struggles, social movements, and revolutions, and the writers who have provided methodological frames for pursuing and writing about this black radical tradition from the perspectives of those imagining and struggling for a better world. They also delineate the role of formative teachers who use their positions in institutions of higher education to mentor additional generations of scholars, pushing them to continue writing in and from the global black radical tradition.
 
 ---
 

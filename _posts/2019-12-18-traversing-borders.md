@@ -5,6 +5,7 @@ comments: true
 title: "Traversing the Borders of Dominicanidad"
 summary: "In this exchange, Jossianna Arroyo (U. of Texas, Austin), Sharina Maillo-Pozo (U. of Georgia), and Danny Méndez (Michigan State U.) delve into <em>The Borders of Dominicanidad</em>. Arroyo and Maillo-Pozo offer cogent analyses of the book’s wide-ranging contributions, and Méndez offers a moving response to their analyses that considers the book in relation to García Peña’s commitments."
 pid: rt2
+permalink: /roundtable/traversing-borders/
 authors:
   - name: Jossianna Arroyo
     img: jossianna-arroyo.jpg
