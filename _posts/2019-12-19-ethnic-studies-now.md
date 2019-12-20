@@ -15,8 +15,7 @@ authors:
     bio: "Roopika Risam is an Associate Professor of Secondary and Higher Education and English at Salem State University. Her research interests lie at the intersections of postcolonial and African diaspora studies, humanities knowledge infrastructures, and digital humanities. She is the author of <em>New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy</em> (Northwestern UP, 2018). Risam is currently working on a book for Johns Hopkins UP recovering the unacknowledged contributions of Ethnic Studies scholars to the emergence of public humanities."
 ---
 
-
-In this strong exchange, <a href="https://english.columbia.edu/people/profile/396" target='_blank'>Frances Negrón-Muntaner</a> and <a href="http://www.roopikarisam.com/" target='_blank'>Roopika Risam</a> discuss why Ethnic Studies now. Negrón-Muntaner discusses how universities approach Ethnic Studies as a threat precisely because Ethnic Studies seeks to overturn the status quo as an "insurrection" from within and without. Roopika Risam continues in the same vein by outlining the imbrication of the university and racial capitalism and declaring the university as we know it "indefensible."
+In this strong exchange, <a href="https://english.columbia.edu/people/profile/396" target='_blank'>Frances Negrón-Muntaner</a> (Columbia U.) and <a href="http://www.roopikarisam.com/" target='_blank'>Roopika Risam</a> (Salem State U.) discuss why Ethnic Studies now. Negrón-Muntaner discusses how universities approach Ethnic Studies as a threat precisely because Ethnic Studies seeks to overturn the status quo as an "insurrection" from within and without. Roopika Risam continues in the same vein by outlining the imbrication of the university and racial capitalism and declaring the university as we know it "indefensible."
 
 ---
 
@@ -177,7 +176,7 @@ deployed by scholars of color simply to exist within the university.
 
 Ethnic Studies, like the insurgents of the academy, has always embodied
 the maroon traditions of what <a href="http://www.minorcompositions.info/wp-content/uploads/2013/04/undercommons-web.pdf" target='_blank'>Stephano Harney and Fred Moten</a> call "the
-undercommons of the university." They <a href="http://www.minorcompositions.info/wp-content/uploads/2013/04/undercommons-web.pdf" target='_blank'>propose</a> , "In the face of these
+undercommons of the university." They <a href="http://www.minorcompositions.info/wp-content/uploads/2013/04/undercommons-web.pdf" target='_blank'>propose</a>, "In the face of these
 conditions one can only sneak into the university and steal what one
 can. To abuse its hospitality, to spite its mission, to join its refugee
 colony, its gypsy encampment, to be in but not of." Ethnic
@@ -247,6 +246,4 @@ center.
 Until then, the university remains indefensible, while Ethnic Studies
 remains vital.
 
-
 <br>
-
