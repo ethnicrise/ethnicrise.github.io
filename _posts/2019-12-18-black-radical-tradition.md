@@ -3,7 +3,7 @@ layout: post
 section-type: post
 comments: true
 title: "A Black Radical Tradition Without Borders"
-summary: "In this powerful epistolary exchange, Robin D. G. Kelley (UCLA) and Laurent Dubois (Duke U.) respond to a set of guiding questions about the importance of thinking, theorizing, and historicizing race and racial blackness globally, internationally, and transnationally."
+summary: "In this epistolary exchange, Robin D. G. Kelley (UCLA) and Laurent Dubois (Duke U.) respond to a set of guiding questions about the importance of thinking, theorizing, and historicizing race and racial blackness globally, internationally, and transnationally."
 pid: rt3
 permalink: /roundtable/black-radical-tradition/
 authors:
@@ -91,7 +91,7 @@ reflections!
 
 <br>
 
-### Robin D. G. Kelley | Response:
+### Robin D. G. Kelley | Responds:
 
 Wow! I appreciate your kind and generous memories of my classes during
 those exciting days in Ann Arbor. I remember it differently; sitting
@@ -215,7 +215,7 @@ no respecters of nations.
 
 <br>
 
-### Laurent Dubois | Response:
+### Laurent Dubois | Continues:
 
 Dear Robin,
 
