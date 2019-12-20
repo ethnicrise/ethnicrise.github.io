@@ -12,7 +12,7 @@ authors:
     bio: "Robin Kelley is Distinguished Professor and Gary B. Nash Endowed Chair in U.S. History at UCLA. His work explores the history of social movements and culture in the U.S., the African Diaspora, and Africa. His most recent books include <em>Thelonious Monk: The Life and Times of an American Original</em> (Free Press, 2009) and <em>frica Speaks, America Answers!: Modern Jazz in Revolutionary Times</em> (Harvard UP, 2012)."
   - name: Laurent Dubois
     img: laurent-dubois.jpg
-    bio: "Laurent Dubois is Professor of History at Duke University. He is a specialist on the history and culture of the Atlantic world, with a focus on the Caribbean and particularly Haiti. His most recent books include <em>Haiti: The Aftershocks of History</em> (Metropolitan Books, 2012) and <em>The Banjo: America’s African Instrument</em> (Harvard UP, 2016)."
+    bio: "Laurent Dubois is Professor of History and Romance Studies and Director of the Forum for Scholars & Publics at Duke University. He is a specialist on the history and culture of the Atlantic world, with a focus on the Caribbean and particularly Haiti. His most recent books include <em>Haiti: The Aftershocks of History</em> (Metropolitan Books, 2012), <em>The Banjo: America’s African Instrument</em> (Harvard UP, 2016), and <em>Freedom Roots: Histories from the Caribbean</em> (UNC Press, 2019), co-authored with Richard Turits."
 ---
 
 
