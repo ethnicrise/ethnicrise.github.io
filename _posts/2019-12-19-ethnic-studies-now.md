@@ -15,8 +15,7 @@ authors:
     bio: "Roopika Risam is an Associate Professor of Secondary and Higher Education and English at Salem State University. Her research interests lie at the intersections of postcolonial and African diaspora studies, humanities knowledge infrastructures, and digital humanities. She is the author of <em>New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy</em> (Northwestern UP, 2018). Risam is currently working on a book for Johns Hopkins UP recovering the unacknowledged contributions of Ethnic Studies scholars to the emergence of public humanities."
 ---
 
-
-In this strong exchange, <a href="https://english.columbia.edu/people/profile/396" target='_blank'>Frances Negrón-Muntaner</a> and <a href="http://www.roopikarisam.com/" target='_blank'>Roopika Risam</a> discuss why Ethnic Studies now. Negrón-Muntaner discusses how universities approach Ethnic Studies as a threat precisely because Ethnic Studies seeks to overturn the status quo as an "insurrection" from within and without. Roopika Risam continues in the same vein by outlining the imbrication of the university and racial capitalism and declaring the university as we know it "indefensible."
+In this strong exchange, <a href="https://english.columbia.edu/people/profile/396" target='_blank'>Frances Negrón-Muntaner</a> (Columbia U.) and <a href="http://www.roopikarisam.com/" target='_blank'>Roopika Risam</a> (Salem State U.) discuss why Ethnic Studies now. Negrón-Muntaner discusses how universities approach Ethnic Studies as a threat precisely because Ethnic Studies seeks to overturn the status quo as an "insurrection" from within and without. Roopika Risam continues in the same vein by outlining the imbrication of the university and racial capitalism and declaring the university as we know it "indefensible."
 
 ---
 
@@ -247,6 +246,4 @@ center.
 Until then, the university remains indefensible, while Ethnic Studies
 remains vital.
 
-
 <br>
-
