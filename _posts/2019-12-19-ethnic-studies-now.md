@@ -15,7 +15,7 @@ authors:
     bio: "Roopika Risam is an Associate Professor of Secondary and Higher Education and English at Salem State University. Her research interests lie at the intersections of postcolonial and African diaspora studies, humanities knowledge infrastructures, and digital humanities. She is the author of <em>New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy</em> (Northwestern UP, 2018). Risam is currently working on a book for Johns Hopkins UP recovering the unacknowledged contributions of ethnic studies scholars to the emergence of public humanities."
 ---
 
-In this strong exchange, <a href="https://english.columbia.edu/people/profile/396" target='_blank'>Frances Negrón-Muntaner</a> and <a href="http://www.roopikarisam.com/" target='_blank'>Roopika Risam</a> discuss why ethnic studies now, offering interrogations into Ethnic Studies. Negrón-Muntaner discusses how universities approach Ethnic Studies as a threat precisely because Ethnic Studies seeks to overturn the status quo as an "insurrection" from within and without. Roopika Risam continues in the same vein by outlining the imbrication of the history of the university and racial capitalism and declaring the university as we know it, "indefensible."
+In this strong exchange, <a href="https://english.columbia.edu/people/profile/396" target='_blank'>Frances Negrón-Muntaner</a> and <a href="http://www.roopikarisam.com/" target='_blank'>Roopika Risam</a> discuss why Ethnic Studies now. Negrón-Muntaner discusses how universities approach Ethnic Studies as a threat precisely because Ethnic Studies seeks to overturn the status quo as an "insurrection" from within and without. Roopika Risam continues in the same vein by outlining the imbrication of the university and racial capitalism and declaring the university as we know it "indefensible."
 
 ---
 
@@ -24,9 +24,9 @@ In this strong exchange, <a href="https://english.columbia.edu/people/profile/39
 ### Frances Negrón-Muntaner | Begins:
 
 For some, ethnic studies is an academic discipline; for others, an
-interdisciplinary field. To me it is neither. 
+interdisciplinary field. To me it is neither.
 
-After nearly six decades of non, partial and peripheral
+After nearly six decades of non, partial, and peripheral
 institutionalization, ethnic studies simultaneously constitutes a series
 of intellectual fields, methods of inquiry, theoretical praxes, and
 political projects with a range of goals. Among these: to affirm the
@@ -46,7 +46,7 @@ reconfigure physical and discursive institutional space.
 
 Not all ethnic studies praxis, however, is equally complex or resonant.
 This accounts for why some practitioners have incorporated the terms
-"critical," "intersectional" or "decolonial" to describe and distance
+"critical," "intersectional," or "decolonial" to describe and distance
 their work from what can be termed "DEI" (diversity, equity, inclusion)
 regimes and accommodationist politics. But when pushed to its
 epistemological and political limits, ethnic studies---alongside, and in
@@ -56,7 +56,7 @@ insurrectionary. By using the term "insurrectionary," I mean to
 underscore that ethnic studies is not only a critique of Eurocentric or
 white supremacist universities but also a transformational praxis that
 includes the knowing subject, epistemological formations, and social
-relations more generally. 
+relations more generally.
 
 While according to recent statistics the number of ethnic studies job
 postings is currently on the upswing, both the perceived destructive and
@@ -68,7 +68,7 @@ outcome is not due to a lack of information or failure to understand
 ethnic studies as an epistemological and political project. Rather, it
 comes from understanding it too well. University leadership know that,
 at its most radical, ethnic studies practices aim to make the university
-*incapable of reproducing itself as it is*. That is, ethnic studies
+_incapable of reproducing itself as it is_. That is, ethnic studies
 seeks to bring forth a shift in not only who teaches but how, what, and
 why. It also enacts other forms of belonging and enjoyment, and a
 refusal to be neatly "arranged" according to the needs of capital and
@@ -81,7 +81,7 @@ member and their practice is a "good fit" or meets the standards of
 "academic excellence." When institutions fail to grant tenure, it is
 then not really a "failure," but the result of a modular but effective
 apparatus built to limit, marginalize, and expel ethnic studies
-faculty. 
+faculty.
 
 Of course, as with all power, institutions do not always say "no." For
 various reasons, including as a strategy to demonstrate a university's
@@ -90,7 +90,7 @@ faculty, including radical scholars, may be incorporated and even
 rewarded.  The irony is that one way to quell the insurrectionary
 possibilities of ethnic studies would be to fully institutionalize it in
 a contained fashion as a discipline of study just as sociology or
-history. But that is unlikely to happen. 
+history. But that is unlikely to happen.
 
 Whereas institutionalization is normalization and therefore subjection,
 this approach would also mean making significant resources available to
@@ -112,7 +112,7 @@ insurrection. It is a refusal to be delimited or confined; a desire to
 learn otherwise; and a daily praxis to live a non-extractive,
 non-hierarchical, and free existence.
 
-That's why we need it. 
+That's why we need it.
 
 <br>
 
@@ -141,8 +141,8 @@ Black people, the essence of racial capitalism.
 
 The university sustained racial capitalism in the U.S. and abroad.
 Scholars like Craig Wilder, Leslie Harris, and Alfred Brophy have
-unearthed these sordid histories of the university (<a href="https://www.bloomsbury.com/us/ebony-and-ivy-9781608193837/" target='_blank'>Wilder</a> 2014; <a href="https://global.oup.com/academic/product/university-court-and-slave-9780199964239?cc=us&lang=en&" target='_blank'>Brophy</a> 2016; <a href="https://ugapress.org/book/9780820354439/slavery-and-the-university/" target='_blank'>Harris et al, eds.</a> 2019).  University coffers swelled with the spoils of colonialism and slavery. On Caribbean plantations, enslaved Black people produced capital that was funneled into university endowments. In the U.S., the university profited from what Saidiya Hartman calls the "fungibility" of enslaved Black
-people (<a href="https://global.oup.com/academic/product/scenes-of-subjection-9780195089844?cc=us&lang=en&" target='_blank'>21-26</a>), their exploited, uncompensated labor creating profit and
+unearthed these sordid histories of the university (<a href="https://www.bloomsbury.com/us/ebony-and-ivy-9781608193837/" target='_blank'>Wilder 2014;</a> <a href="https://global.oup.com/academic/product/university-court-and-slave-9780199964239?cc=us&lang=en&" target='_blank'>Brophy 2016;</a> <a href="https://ugapress.org/book/9780820354439/slavery-and-the-university/" target='_blank'>Harris et al, eds. 2019</a>). University coffers swelled with the spoils of colonialism and slavery. On Caribbean plantations, enslaved Black people produced capital that was funneled into university endowments. In the U.S., the university profited from what Saidiya Hartman calls the "fungibility" of enslaved Black
+people (<a href="https://global.oup.com/academic/product/scenes-of-subjection-9780195089844?cc=us&lang=en&" target='_blank'>Hartman 1997, 21-26</a>), their exploited, uncompensated labor creating profit and
 serving students, their bodies sold as commodities. All the while, white
 scholars in the university produced knowledge to ossify the backbone of
 white supremacy that undergirds the nation.
@@ -184,8 +184,8 @@ colony, its gypsy encampment, to be in but not of." (26) Ethnic
 studies and scholars of color alike occupy this bifurcated position---one foot in, one foot out---navigating between complicity in the
 excesses and exclusions of the university and using entree into that
 space of privilege to build better worlds. We recognize the power of
-access to a space where we can create knowledges not *on* but *with* our
-communities, a rejoinder to the knowledge produced *about* us. Small
+access to a space where we can create knowledges not _on_ but _with_ our
+communities, a rejoinder to the knowledge produced _about_ us. Small
 acts of revolution, indeed, but so threatening to the university that
 has stolen so much from us.
 
@@ -246,5 +246,3 @@ center.
 
 Until then, the university remains indefensible, while ethnic studies
 remains vital.
-
-
