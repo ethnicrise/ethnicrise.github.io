@@ -176,7 +176,7 @@ deployed by scholars of color simply to exist within the university.
 
 Ethnic Studies, like the insurgents of the academy, has always embodied
 the maroon traditions of what <a href="http://www.minorcompositions.info/wp-content/uploads/2013/04/undercommons-web.pdf" target='_blank'>Stephano Harney and Fred Moten</a> call "the
-undercommons of the university." They <a href="http://www.minorcompositions.info/wp-content/uploads/2013/04/undercommons-web.pdf" target='_blank'>propose</a> , "In the face of these
+undercommons of the university." They <a href="http://www.minorcompositions.info/wp-content/uploads/2013/04/undercommons-web.pdf" target='_blank'>propose</a>, "In the face of these
 conditions one can only sneak into the university and steal what one
 can. To abuse its hospitality, to spite its mission, to join its refugee
 colony, its gypsy encampment, to be in but not of." Ethnic
