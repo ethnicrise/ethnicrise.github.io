@@ -175,11 +175,11 @@ forged in the fire of Ethnic Studies, the practices of everyday living
 deployed by scholars of color simply to exist within the university.
 
 Ethnic Studies, like the insurgents of the academy, has always embodied
-the maroon traditions of what Fred Moten and Stephano Harney call "the
-undercommons of the university." (<a href="http://www.minorcompositions.info/wp-content/uploads/2013/04/undercommons-web.pdf" target='_blank'><em>Undercommons</em></a> 2013) They propose, "In the face of these
+the maroon traditions of what <a href="http://www.minorcompositions.info/wp-content/uploads/2013/04/undercommons-web.pdf" target='_blank'>Stephano Harney and Fred Moten</a> call "the
+undercommons of the university." They <a href="http://www.minorcompositions.info/wp-content/uploads/2013/04/undercommons-web.pdf" target='_blank'>propose</a> , "In the face of these
 conditions one can only sneak into the university and steal what one
 can. To abuse its hospitality, to spite its mission, to join its refugee
-colony, its gypsy encampment, to be in but not of." (26) Ethnic
+colony, its gypsy encampment, to be in but not of." Ethnic
 Studies and scholars of color alike occupy this bifurcated position---one foot in, one foot out---navigating between complicity in the
 excesses and exclusions of the university and using entree into that
 space of privilege to build better worlds. We recognize the power of
