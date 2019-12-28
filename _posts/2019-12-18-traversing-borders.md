@@ -27,10 +27,8 @@ In this exchange, <a href="https://liberalarts.utexas.edu/spanish/faculty/ja3344
 
 ### Jossianna Arroyo:
 
-Lorgia García Peña's *The Borders of Dominicanidad: Race, Nation and the
-Archives of Contradiction* (Duke UP, 2016) is a major tour the force in
-Dominican, Caribbean, and African Diaspora Studies. *Borders of
-Dominicanidad* has shifted the field of Dominican Studies as it has
+Lorgia García Peña's *The Borders of Dominicanidad: Race, Nation and the Archives of Contradiction* (Duke UP, 2016) is a major tour the force in
+Dominican, Caribbean, and African Diaspora Studies. *Borders of Dominicanidad* has shifted the field of Dominican Studies as it has
 problematized blackness by bringing forth the complex negotiations
 within and outside national borders by elites, intellectuals, and
 collectivities. The book has received several book awards, including the
@@ -112,17 +110,15 @@ current uprisings in Haiti.
 ### Sharina Maillo Pozo:
 
 On December 9, 2016, I had the honor of presenting Lorgia García-Peña's
-groundbreaking book, *The Borders of Dominicanidad. Race, Nation, and
-Archives of Contradiction *at Word Up Community Bookshop in Washington
+groundbreaking book, *The Borders of Dominicanidad. Race, Nation, and Archives of Contradiction* at Word Up Community Bookshop in Washington
 Heights, NYC.  Three years later, I find myself revisiting my remarks
-and reflecting on the revolutionary contributions of *Borders of
-Dominicanidad *to the field of Dominican studies. 
+and reflecting on the revolutionary contributions of *Borders of Dominicanidad* to the field of Dominican studies. 
 
-*Borders of Dominicanidad *challenges historical and fictional
+*Borders of Dominicanidad* challenges historical and fictional
 foundational narratives that have delineated Dominican (trans)national
-identity. This insightful and carefully researched book* *questions the
+identity. This insightful and carefully researched book questions the
 role of silences and repetitions in the structural foundation of what
-García-Peña dubs as "the Archive of Dominicanidad"* *through a
+García-Peña dubs as "the Archive of Dominicanidad" through a
 groundbreaking analysis of five pivotal moments in the history of the
 Dominican nation: the murders of *The Galindo Virgins* in 1822; the
 criminalization of Afro-religious practices during the U.S. occupation
@@ -132,14 +128,12 @@ Afro-Dominicans on the Dominican-Haitian border in 1937; the 1965 US
 military intervention and the massive emigration that succeeded it; and
 the 2010 earthquake. By taking a revisionist and interdisciplinary
 approach, García-Peña recovers archives that contradict, challenge,
-negotiate, and redefine official narratives. In this sense, *Borders of
-Dominicanidad *historicizes *dominicanidad* through counter-hegemonic
+negotiate, and redefine official narratives. In this sense, *Borders of Dominicanidad* historicizes *dominicanidad* through counter-hegemonic
 dictions that challenge the veracity and accuracy of official archives
 by examining a wide array of unexplored historical documents, cultural
 artifacts, and events.
 
-In* Borders of Dominicanidad*,* *García-Peña
-understands *dominicanidad* as a conflation of a geopolitical
+In *Borders of Dominicanidad*, García-Peña understands *dominicanidad* as a conflation of a geopolitical
 triangulation (Haiti, The Dominican Republic, and the United States): "I
 see dominicanidad as a category that emerges from the historical events
 that placed the Dominican Republic in a geographic and symbolic border
@@ -152,20 +146,19 @@ above-mentioned geopolitical triangulation paves the way for a more
 inclusive rubric of* dominicanidad* where plural subjects, dictions,
 territories, and ethno-racial categories, such
 as *rayano*, *dominicano*, Afro-Dominican, and Dominicanyork, are
-recovered, recorded, and validated. García-Peña's *Borders of
-Dominicanidad *is an open invitation to engage in a collective effort to
-heal *las heridas abiertas *(Anzaldúa) that remain from structures of
+recovered, recorded, and validated. García-Peña's *Borders of Dominicanidad* is an open invitation to engage in a collective effort to
+heal *las heridas abiertas* (Anzaldúa) that remain from structures of
 violence bestowed upon racialized subjects. 
 
-*Borders of Dominicanidad *is an indispensable resource to approach,
+*Borders of Dominicanidad* is an indispensable resource to approach,
 understand, and theorize Dominican identity from the margins.
 García-Peña's theorizations on *contra/dictions, rayano
 consciousness,* the*"ni é"*, and *dominicanidad ausente*, are four of
 many concepts that have revolutionized and reshaped the epistemological
 approaches to the study of *dominicanidad.* Finally, I would be remiss
-not to highlight that *Borders of Dominicanidad *speaks to Lorgia
+not to highlight that *Borders of Dominicanidad* speaks to Lorgia
 García-Peña's humanity and deep social justice
-conscience, *dos constantes *in her quest to create just archives, even
+conscience, *dos constantes* in her quest to create just archives, even
 if that means swimming against the current...
 
 <br>
@@ -173,11 +166,10 @@ if that means swimming against the current...
 ### Danny Mendez | Response:
 
 While reading both of your detailed analyses of the profound
-contributions of Lorgia García-Peña's book *The Borders of
-Dominicanidad: Race, Nation and the Archives of Contradiction* (Duke UP,
+contributions of Lorgia García-Peña's book *The Borders of Dominicanidad: Race, Nation and the Archives of Contradiction* (Duke UP,
 2016) in Dominican, Caribbean, and African Diaspora Studies, I could not
 stop thinking of the symbiosis of academic rigor and engaged community
-practices **in her work**. In fact, for me, the mention of "Lorgia
+practices *in her work*. In fact, for me, the mention of "Lorgia
 García-Peña's work" materializes into a dual operation that is equal
 parts incisive critical research (on gender, race, dominicanidad, border
 studies), and also a deep commitment to challenging the contradictions
@@ -195,7 +187,7 @@ hand in hand with Lorgia's community engagement and especially when we
 think about her role as co-founder of Freedom University and her
 constant devotion to inspiring and teaching all students.
 
-            Her work has been central to my evolution as a Dominican
+Her work has been central to my evolution as a Dominican
 Studies scholar and especially because through her groundbreaking
 proposition of analyzing dominicanidad as a category that "is inclusive
 of subjects as well as the dictions that produce them" (3) has inspired
@@ -212,8 +204,7 @@ by *The Borders of Dominicanidad*. Particularly, I am interested in
 analyzing female performers, activists, and writers that have been
 officially recognized as builders of Dominican culture abroad but whose
 political and cultural positions are embedded in contradictory
-practices. Undoubtedly, the path that Lorgia García-Peña paved in *The
-Borders of Dominicanidad* continues to stretch forward in the subsequent
+practices. Undoubtedly, the path that Lorgia García-Peña paved in *The Borders of Dominicanidad* continues to stretch forward in the subsequent
 ideas and projects it has inspired.
 
 <br>
