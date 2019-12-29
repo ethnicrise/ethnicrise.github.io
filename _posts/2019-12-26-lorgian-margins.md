@@ -15,7 +15,7 @@ authors:
     bio: "Rachel Afi Quinn is Assistant Professor of Comparative Cultural Studies and Women’s, Gender, and Sexuality Studies at the University of Houston. Her transnational feminist cultural studies scholarship focuses on mixed race, gender and sexuality in the African Diaspora. Her first book project, <em>Dominicana-Dominicana</em>, is an interdisciplinary cultural studies text that explores race, gender and sexuality through the cultural productions of Dominican women in Santo Domingo."
 ---
 
-In this exchange Urayoán Noel and Rachel Afi Quinn examine the innovative methods of Lorgia García Peña’s <em>The Borders of Dominicanidad</em>. Urayoán Noel highlights the methodology of entering the margins of U.S. and Dominican national archives, which he calls the “Lorgian Margin,” and Rachel Afi Quinn highlights the self-reflexivity of this methodology, pointing to the ways that Lorgia García Peña’s own voice and embodied experience come under self-scrutiny in the text. 
+In this exchange  Urayoán Noel (NYU) and Rachel Afi Quinn (U. Houston) examine the innovative methods of Lorgia García Peña’s <em>The Borders of Dominicanidad</em>. Urayoán Noel highlights the methodology of entering the margins of U.S. and Dominican national archives, which he calls the “Lorgian Margin,” and Rachel Afi Quinn highlights the self-reflexivity of this methodology, pointing to the ways that Lorgia García Peña’s own voice and embodied experience come under self-scrutiny in the text. 
 
 ---
 
