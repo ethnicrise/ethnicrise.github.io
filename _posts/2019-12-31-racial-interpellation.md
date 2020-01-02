@@ -31,14 +31,14 @@ Being an asterisk or a footnote to diversity statistics, to dropdown
 menus, to methodological framings. \"We don\'t have enough of you to
 even include you in the diversity study,\" and in the same breath, \"but
 we recognize we are on unceded XXXX Indian land.\" What the fuck does
-that mean? That is where my mind went when I saw that García-Peña was
+that mean? That is where my mind went when I saw that García Peña was
 denied tenure. In truth, this has been on my mind because I was just
 granted tenure. Is that feeling also shame? Is it guilt?
 
 I don\'t know. Maybe it has to do with the ways that Black-Brown kinship
 has also been on my mind because of the times, and because of the work
 that I am trying to do. Not so much as a thing of writing, but of doing,
-of being. This is what García-Peña does in [the introduction of *The
+of being. This is what García Peña does in [the introduction of *The
 Borders of
 Dominicanidad*](https://read.dukeupress.edu/books/book/17/chapter/96988/IntroductionDominicanidad-in-Contradiction),
 too. She opens with a scene of racialized interpellation. She takes her
@@ -50,14 +50,14 @@ The university is a violent place. It is. We have to start there. It is
 violent for its gatekeeping, its knowledge brokering, for its double
 speak, its contra*dictions*.
 
-Lorgia calls this the \"footnote condition\" (3). I think of it as
+García Peña calls this the \"footnote condition\" (3). I think of it as
 (statistical) insignificance. Because for Native folks what goes between
 those parentheses matters\--it defines to a certain extent how we are
 imagined as belonging to land, community, spirituality, and knowledge.
 Especially to knowledge. For me, what does (Cherokee) mean? What would
 happen if we were to bring ourselves out of those parentheses\--out of
 that footnote condition\--and into the center? That is the decolonial
-ethics that García-Peña makes plain. That is why her work is dangerous.
+ethics that García Peña makes plain. That is why her work is dangerous.
 That is why, for the white supremacist academe, she is dangerous. She
 makes plain the racist truths of our conditions of employment, its
 conditions, its underlying incommensurability with the work of
