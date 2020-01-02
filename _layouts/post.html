@@ -43,9 +43,9 @@
 
          <hr>
 
-          {% if page.comments %}
+          {% comment %}{% if page.comments %}
             {% include comments.html %}
-          {% endif %}
+          {% endif %}{% endcomment %}
         
           <br>
         </div>
