@@ -12,7 +12,7 @@ authors:
     bio: "Joseph M. Pierce is Associate Professor in the Department of Hispanic Languages and Literature at Stony Brook University. His research focuses on the intersections of kinship, gender, sexuality, and race in Latin America, 19<sup>th</sup> century literature and culture, queer studies, Indigenous studies, and hemispheric approaches to citizenship and belonging. He is the author of <em>Argentine Intimacies: Queer Kinship in an Age of Splendor, 1890-1910</em> (SUNY Press, 2019) and co-editor of <em>Políticas del amor: Derechos sexuales y escrituras disidentes en el Cono Sur</em> (Cuarto Propio, 2018) as well as the forthcoming special issue of <em>GLQ</em>, &#34;Queer/Cuir Américas: Translation, Decoloniality, and the Incommensurable.&#34; His work has been published recently in <em>Taller de Letras</em>, <em>Revista Hispánica Moderna</em>, <em>Critical Ethnic Studies</em>, and has also been featured in <em>Indian Country Today</em>. He is a citizen of the Cherokee Nation."
   - name: Kaiama L. Glover
     img: kaiama-glover.jpg
-    bio: "Kaiama L. Glover is Ann Whitney Olin Professor of French & Africana Studies at Barnard College, Columbia University. Her teaching and research interests include francophone literature, particularly that of Haiti and the French Antilles; colonialism and postcolonialism; and sub-Saharan francophone African cinema. She is the author of <em>Haiti Unbound: A Spiralist Challenge to the Postcolonial Canon</em> (Liverpool UP 2010) and has published articles in <em>The French Review</em>, <em>Small Axe</em>, <em>Research in African Literatures</em>, <em>The Journal of Postcolonial Writings</em>, and <em>The Journal of Haitian Studies</em>, among others, and has co-edited and translated several works. She is founding co-editor of <em><a href='http://smallaxe.net/sxarchipelagos/'>archipelagos: a journal of Caribbean digital studies</a></em> and founding co-director of the digital humanities project [In the Same Boats: Toward an Afro-Atlantic Intellectual Cartography](https://sameboats.org/). Her most recent monograph, <em>Disorderly Women: On Caribbean Community and the Ethics of Self-Regard</em>, is forthcoming with Duke University Press in 2020."
+    bio: "Kaiama L. Glover is Ann Whitney Olin Professor of French & Africana Studies at Barnard College, Columbia University. Her teaching and research interests include francophone literature, particularly that of Haiti and the French Antilles; colonialism and postcolonialism; and sub-Saharan francophone African cinema. She is the author of <em>Haiti Unbound: A Spiralist Challenge to the Postcolonial Canon</em> (Liverpool UP 2010) and has published articles in <em>The French Review</em>, <em>Small Axe</em>, <em>Research in African Literatures</em>, <em>The Journal of Postcolonial Writings</em>, and <em>The Journal of Haitian Studies</em>, among others, and has co-edited and translated several works. She is founding co-editor of <em><a href='http://smallaxe.net/sxarchipelagos/'>archipelagos: a journal of Caribbean digital praxis</a></em> and founding co-director of the digital humanities project <a href='https://sameboats.org/'>In the Same Boats: Toward an Afro-Atlantic Intellectual Cartography</a>. Her most recent monograph, <em>Disorderly Women: On Caribbean Community and the Ethics of Self-Regard</em>, is forthcoming with Duke University Press in 2020."
 ---
 
 Offering a set of provocations and invitations, Joseph M. Pierce (Stony Brook University) and Kaiama L. Glover (Barnard College) dialogue about the vulnerability of the Indigenous, black, and brown person in academia, and the solidarities, alliances, and kinship forged between black and brown intellectuals that pose a real threat to academic institutions. Building from Lorgia García Peña’s tenure denial, Pierce and Glover move from the structural violence attending their positions in academia to push us to think harder about how we do the work of decoloniality and/in Ethnic Studies. 
@@ -65,7 +65,7 @@ decolonality.
 
 <br>
 
-### Kaiama Glover | Responds:
+### Kaiama L. Glover | Responds:
 
 For me, and I think for many of us, black and brown and otherwise
 "other" in the Academy, the affective is where we find ourselves
@@ -84,7 +84,7 @@ own isolation and precarity.
 
 Our collective investment in Ethnic Studies as a field is of a piece
 with our collective outrage (indignation? despair?) at the acts of
-violence, both "micro" and structural, that condition our existence as
+violence, both "micro" and structural, that condition our practice as
 scholars and teachers. In the face of our precarity, Ethnic Studies
 proposes an ever-expanding set of alternatives to the narratives that
 limit and delimit black and brown existence. As a field, it exhorts us
@@ -95,7 +95,7 @@ tradition of [Cherrie Moraga](https://cherriemoraga.com/), [Gloria
 Anzaldúa](https://www.poetryfoundation.org/poets/gloria-e-anzaldua), and
 other foremothers, her work makes plain the cost of defying supremacist
 narratives both through study and through the very fact of presence. To
-be a brown body in certain spaces, exploring narratives that contest or
+be a brown body in certain spaces, her work and her experiences remind us, exploring narratives that contest or
 at the very least nuance and trouble persistent colonial epistemes, is
 to be at risk.
 
@@ -109,7 +109,7 @@ conflict](https://www.press.uchicago.edu/ucp/books/book/chicago/B/bo3624045.html
 and it is a phenomenon García-Peña addresses with sensitivity and great
 insight. Her deeply researched and eloquently related reading of
 Dominicanidad in the long-historical wake and contemporary face of
-Haitian "blackness" is an opening and an airing out. It is a careful
+Haitian "blackness" presents an opening and an airing out. It is a careful
 articulation of the specific pressure points that have weakened bonds of
 communication between like peoples, that have rendered translation
 utterly fraught. Like Spillers, García-Peña pays attention to the
@@ -119,7 +119,7 @@ recognize perpetrators while turning victims against one another (13).
 But if it is true that our mutual positionality as peoples of diaspora
 and empire is, above all, a question of narrative---of stories that
 precede our bodies and our experiences---then García-Peña\'s efforts to
-relate more truthful stories, told with the right grammar, present a
+relate more truthful stories, told with the right grammar, propose a
 path to recognition. Her work is a bringing out of the parentheses that
 means to clarify us *for* us; it is a crafting of [Wynterian
 truth-*fors*](https://muse.jhu.edu/article/51630) that foregrounds
