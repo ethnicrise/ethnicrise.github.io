@@ -63,6 +63,8 @@ makes plain the racist truths of our conditions of employment, its
 conditions, its underlying incommensurability with the work of
 decolonality.
 
+<br>
+
 ### Kaiama Glover | Responds:
 
 For me, and I think for many of us, black and brown and otherwise
