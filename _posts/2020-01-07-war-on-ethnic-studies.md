@@ -133,9 +133,9 @@ that its scholarship---of which Lorgia García Peña's work is so
 obviously exemplary---represents some of the most transformative,
 epistemologically and theoretically challenging, critically and publicly
 engaged work to emerge from the academy in the last half century. In
-producing such field- and academy-altering work, *Ethnic Studies
+producing such field---and academy---altering work, Ethnic Studies
 represents the elite research university's (e.g. Harvard et. al.'s)
-antithesis.*
+antithesis.
 
 It is worth recalling, over and again, that the modern university is a
 foundationally colonial, plantation chattel enterprise. A vibrant,
