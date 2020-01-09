@@ -81,10 +81,10 @@ Phillis Wheatley and [the difficult miracle of Black poetry in
 America](https://www.poetryfoundation.org/articles/68628/the-difficult-miracle-of-black-poetry-in-america).
 It sent García Peña to the letters, papers and memos that document *[The
 Borders of Dominicanidad: Race, Nations and Archives of
-Contradictions](https://read.dukeupress.edu/books/book/17/The-Borders-of-DominicanidadRace-Nation-and).
+Contradictions](https://read.dukeupress.edu/books/book/17/The-Borders-of-DominicanidadRace-Nation-and)*.
 
 What does it mean to create, to master creativity, in the glint of the
-steeliest historical and disciplinary negation*?
+steeliest historical and disciplinary negation?
 
 García Peña's tenure denial in the face of such prize-winning,
 unqualified, exclamatory excellence, signals the barb-wired border
