@@ -283,7 +283,7 @@ unrecognizable to itself. That would be a beautiful thing.
 
 I feel very ambivalent about writing and commenting in this roundtable.
 
-I stand with Lorgia. I stand for Lorgia. I am Lorgia, in the sense that
+I stand with Lorgia. I stan for Lorgia. I am Lorgia, in the sense that
 untenured faculty members of color, particularly womxn, particularly
 those of non-white, non-Anglo, and non-Western communities (like the
 territorialized lands of Ayiti and Borinken, now known by the names
