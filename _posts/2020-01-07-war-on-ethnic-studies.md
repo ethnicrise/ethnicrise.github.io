@@ -229,7 +229,7 @@ turn, requires perpetual mobilizations of (legitimated state and
 extra-state) violence and colonial-chattel power that form the premises
 of the degrading, negating, and deadly differentiations that Gabrielle
 invokes in the passage above: "border," "individual merit,"
-"intellectual citizens," "disciplinary exclusion," scholarly exiles." In
+"intellectual citizens," "disciplinary exclusion," "scholarly exiles." In
 White Being's ascendancy, there is nothing less than an authoritarian
 Universal, a compulsory call to war that *calls on the university to
 commodify, occupy, expropriate, exploit, destroy, and/or criminalize*
