@@ -18,11 +18,7 @@
 
           <h2><strong>{{ page.title }}</strong></h2>
           <h4>
-            <strong>{{ page.date | date_to_string }}</strong> | 
-            <small>
-              <a href="{{site.baseurl}}{{page.url }}#disqus_thread">Comments</a>
-              <br />
-            </small>
+            <strong>{{ page.date | date_to_string }}</strong> 
           </h4>
 
           <section class="text-justify">
@@ -42,10 +38,6 @@
           {% endfor %}
 
          <hr>
-
-          {% comment %}{% if page.comments %}
-            {% include comments.html %}
-          {% endif %}{% endcomment %}
         
           <br>
         </div>
