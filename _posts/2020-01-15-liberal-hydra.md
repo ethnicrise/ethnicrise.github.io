@@ -73,8 +73,8 @@ today.
 
 Looking back, it should not be a mystery that college campuses became
 sites of students of color actions a decade or so after *Brown vs. Board
-of Education* and after scenes such as [*Dorothy
-Counts*](https://www.wfae.org/post/charlotte-talks-dorothy-counts-integrated-cms-1957-story-behind-her-historic-walk#stream/0)
+of Education* and after scenes such as [Dorothy
+Counts](https://www.wfae.org/post/charlotte-talks-dorothy-counts-integrated-cms-1957-story-behind-her-historic-walk#stream/0)
 entering Harding High in North Carolina in 1957. For, it was not only
 bodies of color who were now entering the privileged spaces of white
 education, but also their minds, memories, aspirations, questions, and
@@ -86,16 +86,16 @@ and education framework.
 
 Today, the demands of generations of students of color are arrested by
 an impasse between racial conservatism, racial neoliberalism, and racial
-liberalism. One is invested in [*“making America white
-again,”*](https://www.newyorker.com/magazine/2016/11/21/making-america-white-again)
+liberalism. One is invested in [“making America white
+again,”](https://www.newyorker.com/magazine/2016/11/21/making-america-white-again)
 as the late Toni Morrison put it, another on reducing public goods,
 particularly when and where the public becomes increasingly composed of
 people of color, and the other on justifying ideas of excellence that
 keep demands for changes at bay and protect what Gloria Wekker and
-others refer to as [*white
-innocence*](https://www.dukeupress.edu/white-innocence). The three
-ideologies ([*racial conservatism, racial neoliberalism, and racial
-liberalism*](https://scholarworks.umb.edu/cgi/viewcontent.cgi?article=1435&context=humanarchitecture))
+others refer to as [white
+innocence](https://www.dukeupress.edu/white-innocence). The three
+ideologies ([racial conservatism, racial neoliberalism, and racial
+liberalism](https://scholarworks.umb.edu/cgi/viewcontent.cgi?article=1435&context=humanarchitecture))
 are in tension as much as they also work together against three rallying
 cries from minoritized sectors: desegregation, reparations, and
 decolonization—of bodies, structures, symbols, and knowledge. These
@@ -110,8 +110,8 @@ It is therefore no mystery either that college campuses, which
 conservatives consider excessively liberal, also seem to be
 “excessively” racist, by which I mean that they have become some of the
 most prominent spaces where one finds vulgar racism and affirmations of
-white supremacy—e.g., most dramatically recently at [*Syracuse
-University*](https://www.youtube.com/watch?v=QwMW5lEb-_M). Contrary to
+white supremacy—e.g., most dramatically recently at [Syracuse
+University](https://www.youtube.com/watch?v=QwMW5lEb-_M). Contrary to
 the presumptions of the liberal establishment, and as generations of
 students of color have suggested, if not made explicit, vulgar racism is
 not some kind of unique and strange experience for them, but rather a
@@ -141,8 +141,8 @@ that go from rejection to containment and commodification of
 intergenerational demands by students and faculty of color in their
 universities. In the last presidential elections, Cornel West described
 the difference between the two candidates for the presidency, Hillary
-Clinton and Donald Trump, as one between a [*“neoliberal disaster” and a
-“neofascist catastrophe.”*](https://www.youtube.com/watch?v=T0gdxq2JNng)
+Clinton and Donald Trump, as one between a [“neoliberal disaster” and a
+“neofascist catastrophe.”](https://www.youtube.com/watch?v=T0gdxq2JNng)
 While political liberalism and academic liberalism are not exactly the
 same, one cannot but wonder if the distinction between disaster and
 catastrophe also applies to the dynamics between conservatives and
@@ -172,8 +172,8 @@ Ethnic Studies, when it has preserved its
 emancipatory impetus, has always been and must continue to be something
 beyond “ethnic studies.” I have proposed conceiving Ethnic Studies as a
 form of decolonial transdisciplinarity—see the wonderful special issue
-on the [*50<sup>th</sup>* *anniversary of Ethnic
-Studies*](https://esr.ucpress.edu/content/42/2) in the *Ethnic Studies
+on the [50<sup>th</sup>* *anniversary of Ethnic
+Studies](https://esr.ucpress.edu/content/42/2) in the *Ethnic Studies
 Review* co-edited by Xamuel Bañales and Leece Lee-Oliver. The “trans”
 indicates both the transgression and the transcendence of established
 disciplines, while decoloniality points to commitments with the projects
@@ -222,7 +222,7 @@ an excuse for failing to respond to intergenerational students and
 faculty demands for a better education and more critical knowledges.
 
 As I have pointed out
-[*elsewhere*](https://fondation-frantzfanon.com/the-u-s-elections-ethnic-studies-and-the-university-a-view-from-the-historically-disenfranchised/),
+[elsewhere](https://fondation-frantzfanon.com/the-u-s-elections-ethnic-studies-and-the-university-a-view-from-the-historically-disenfranchised/),
 university leaders and defenders of the liberal arts and sciences will
 do well to realize that supporting the vision of Ethnic Studies might be
 one of the best possible tools in the academy against the increasing
@@ -266,17 +266,17 @@ seriousness that it deserves.
 Along with efforts to eradicate neofascism and to challenge racial
 neoliberalism, including the increased costs of education, this
 rethinking of the university *with and through* Ethnic Studies—to
-paraphrase [*Johnella
-Butler’s*](https://books.google.com/books?id=UAaKq3r6UiYC&printsec=frontcover#v=onepage&q&f=false)
+paraphrase [Johnella
+Butler’s](https://books.google.com/books?id=UAaKq3r6UiYC&printsec=frontcover#v=onepage&q&f=false)
 view of Ethnic Studies in her splendid anthology about it, as well as to
-evoke [*Sylvia Wynter’s*](https://www.jstor.org/stable/302808?seq=1)
+evoke [Sylvia Wynter’s](https://www.jstor.org/stable/302808?seq=1)
 view of the New Studies and the much needed overcoming of Western
 modern/colonial humanism—could help make university campuses the
 intellectual homes and engines of excellence in knowledge production and
 creativity that they should be. Why not come together and join forces in
 the support of the Ethnic Studies imperative and its vision of what
-South African student activists have called a [*“free and
-decolonised”*](https://www.aljazeera.com/indepth/opinion/2016/10/feesmustfall-decolonising-education-161031093938509.html)
+South African student activists have called a [“free and
+decolonised”](https://www.aljazeera.com/indepth/opinion/2016/10/feesmustfall-decolonising-education-161031093938509.html)
 education for an-other university, an-other society, and an-other world?
 
 <br>
@@ -286,7 +286,7 @@ education for an-other university, an-other society, and an-other world?
 Responding to this post is thrice a labor of love. By taking on this
 task I acknowledge the role of Ethnic Studies as a transformative
 transdisciplinary and transnational project, I align myself with Lorgia
-Garcia Peña and those who stand beside her decrying the unjust and
+García Peña and those who stand beside her decrying the unjust and
 egregious treatment she has received at Harvard University, and I
 respond in kind to the words of my advisor and mentor, Nelson
 Maldonado-Torres, who first introduced me to Ethnic Studies as a field
@@ -302,21 +302,22 @@ self-determination. These students, and generations of students since,
 recognized that it was not them, their families, their communities, or
 their ancestors who lacked value, the capacity for humanity, and
 generosity. Instead, it was the violence of Western society, born and
-sustained through coloniality, that was the “decadent” and “dying
-civilization” and therefore ill equipped to solve the problems of its
-own creation, as Aimé Césaire so eloquently argued in *Discourse on
-Colonialism*. Maldonado-Torres points out that “Contrary to the
-presumptions of the liberal establishment \[…\] vulgar racism is not
-some kind of unique and strange experience.” Instead, students of color
-experience such racism as “a natural extension of their day to day life
-in dorms, libraries, and classrooms.” Faculty of color, by extension,
-“arguably have similar experiences in their day to day activities and
-interactions in department meetings, exchanges with Deans and senior
-administrators, and even in their own classrooms.” This keen observation
-does not even account for those in our communities and families who do
-not and cannot inhabit these spaces of privilege within the ivory tower.
+sustained through coloniality, that was the "decadent" and "dying
+civilization" and therefore ill equipped to solve the problems of its
+own creation, as Aimé Césaire so eloquently argued in "[Discourse on
+Colonialism](https://libcom.org/files/zz_aime_cesaire_robin_d.g._kelley_discourse_on_colbook4me.org_.pdf)".
+Maldonado-Torres points out that "Contrary to the presumptions of the
+liberal establishment \[...\] vulgar racism is not some kind of unique
+and strange experience." Instead, students of color experience such
+racism as "a natural extension of their day to day life in dorms,
+libraries, and classrooms." Faculty of color, by extension, "arguably
+have similar experiences in their day to day activities and interactions
+in department meetings, exchanges with Deans and senior administrators,
+and even in their own classrooms." This keen observation does not even
+account for those in our communities and families who do not and cannot
+inhabit these spaces of privilege within the ivory tower.
 
-What’s more, many Black, Indigenous, Latinx and other scholars of color
+What's more, many Black, Indigenous, Latinx and other scholars of color
 who come to the university from non-elite socioeconomic sectors contend
 with both the covert and overt racism of the institution and the
 systemic and state-sponsored racism of society writ large. The
@@ -337,34 +338,34 @@ Studies is a heretical intellectual and political practice that
 questions and decenters the foundational mythologies of the Western arts
 and sciences and of Western man who has overrepresented himself as The
 Human and as the sole model of modern progress and humanity (relegating
-all others to a sublimated derivative status). As Maldonado-Torres’
+all others to a sublimated derivative status). As Maldonado-Torres'
 essay shows, the heresy of questioning the mandates of the neoliberal
 modern/colonial order has been met with much resistance and often
-vitriol from both “liberal” and “conservative” institutional
-stakeholders. Furthermore, as Wynter has noted, Ethnic Studies has found
-itself placed philosophically, as well as in policy and in practice as
-vestibular to the university. In addition to many existing departments
-and programs being placed at the edges of the university (and in cramped
-quarters), Ethnic Studies also is treated as a peripheral endeavor or as
-an invasive pathogen that will necessarily rot and die through a
-designed process of resource starvation, hostility, and neglect. While
-Black, Indigenous, and other scholars of color are asked to join the
-ranks of the professoriate at various institutions, often through the
-demands of students of color protesting, they are subsequently asked to
-attend to a myriad of problems, projects, and initiatives that leave
-them overworked and undervalued. If and when these faculty burn out,
-leave these institutions, or are denied tenure, the existing problems,
-which were never really systemically addressed in the neoliberal
-university, are then presented to a new slate of faculty to “solve.”
-This is a deadly and seemingly endless cycle, and we know of too many
-examples of universities leading to the premature death and mental and
-physical collapse of faculty of color in general and of women of color
-in particular.
+vitriol from both "liberal" and "conservative" institutional
+stakeholders. Furthermore, as [Wynter](https://onlinelibrary.wiley.com/doi/abs/10.1002/9780470996645.ch9) has noted, Ethnic Studies has found itself placed philosophically, as
+well as in policy and in practice as vestibular to the university. In
+addition to many existing departments and programs being placed at the
+edges of the university (and in cramped quarters), Ethnic Studies also
+is treated as a peripheral endeavor or as an invasive pathogen that will
+necessarily rot and die through a designed process of resource
+starvation, hostility, and neglect. While Black, Indigenous, Latinx, and
+other scholars of color are asked to join the ranks of the professoriate
+at various institutions, often through the demands of students of color
+protesting, they are subsequently asked to attend to a myriad of
+problems, projects, and initiatives that leave them overworked and
+undervalued. If and when these faculty burn out, leave these
+institutions, or are denied tenure, the existing problems that were
+never really systemically addressed in the neoliberal university are
+then presented to a new slate of faculty to "solve." This is a deadly
+and seemingly endless cycle, and we know of too many examples of
+universities leading to the premature death and mental and physical
+collapse of faculty of color in general and of women of color in
+particular.
 
 **II.**
 
 As a first-generation working-poor Afro-Puerto Rican undergraduate
-student at Rutgers University I gravitated toward English, Women’s &
+student at Rutgers University I gravitated toward English, Women's &
 Gender Studies, and Puerto Rican and Hispanic Caribbean Studies because
 in each of these units I found critical threads for understanding the
 histories of my family and communities, as well as new ways of
@@ -377,7 +378,7 @@ first-hand. In English, while there was a strong emphasis on the
 European and white American canon, I was able to find refuge in the many
 African American literature courses offered. In Puerto Rican Studies I
 was able to excavate more fully why I came to grow up in the tenements
-and public housing projects of Hoboken, NJ to a “multi-racial” family,
+and public housing projects of Hoboken, NJ to a "multi-racial" family,
 the daughter of two immigrants from the colony of Puerto Rico. I was
 able to trace how my siblings were tracked out of educational attainment
 and what sociopolitical and economic structures made it possible for me
@@ -388,7 +389,7 @@ lives of women on both sides of my family on the island and in diaspora.
 I also learned how women of color have always been at the forefront
 (albeit often invisiblized) of social and racial justice movements. As
 an undergrad I had built myself an interdisciplinary constellation of
-study that would lead me to my graduate program at UC Berkeley’s
+study that would lead me to my graduate program at UC Berkeley's
 Comparative Ethnic Studies Department. It was there that I learned that
 Ethnic Studies is about problems - the fundamental problems of
 dispossession, enslavement, colonization, and coloniality. I learned
@@ -406,15 +407,16 @@ theorize and practice liberation in relational and ethical ways. This
 revelation is something that I experience as a sort-of déjà-vu each
 semester I teach Ethnic Studies courses in the English Department,
 African American & African Studies Department, and Chicano/Latino
-Studies Program at my institution. I not only recall my own “coming to
-consciousness,” but I see my students and realize that attaining the
-tools to understand colonial modernity is no small feat, nor a trifling
-thing, but vast and necessary for individuals and whole communities.
+Studies Program at my institution. I not only recall my own "coming to
+consciousness," but I see my students grapple with these ideas and come
+to more firmly believe that attaining the tools to understand colonial
+modernity is no trifling feat, but a vast and necessary endeavor for
+individuals and whole communities.
 
 Rather than related to Ethnic Studies, I contend that the concerns and
-thought brought forth by Black, Indigenous, and women of color feminists
-are central to Ethnic Studies as a field and as a politics of being.
-This because women of color have been the backbone of the various
+thought brought forth by Black, Indigenous, Latinx, and women of color
+feminists are central to Ethnic Studies as a field and as a politics of
+being. This because women of color have been the backbone of the various
 movements for justice that propelled Ethnic Studies projects. Without
 the heresy of women of color feminisms the praxis of liberation will be
 decisively partial, the philosophies and the poetics flimsy, and the
@@ -425,13 +427,13 @@ liberatory projects for those most affected by colonial modernity, we
 must tend to the most vulnerable, to those who are often cast to the
 periphery. This is fundamental to any Ethnic Studies project in its
 fullest and most insurgent liberatory embodiment. We must recognize that
-one of the fundamental mechanisms of colonialism--as María Lugones,
-Xhercis Méndez, and other decolonial feminists argue--was the imposition
-of gender binaries, racialized gender hierarchies, and racialized
-gender-based violence as modes of controlling bodies, territories,
-minds, and spirits. Ethnic Studies is incomplete without the
-contributions of women of color thinkers and artists, for they make
-meaning of survival and make imagining different futures possible. They
-have made a politics out of the practices of identifying interlocking
-struggles and forging relations across difference in the fight for
-liberation.
+one of the fundamental mechanisms of colonialism---as [María
+Lugones](https://nycstandswithstandingrock.files.wordpress.com/2016/10/lugones-2007.pdf), [Xhercis Méndez](https://pdfs.semanticscholar.org/28ab/5c693adc5f91818fddc09890db93112ced12.pdf),
+and other decolonial feminists argue---was the imposition of gender
+binaries, racialized gender hierarchies, and racialized gender-based
+violence as modes of controlling bodies, territories, minds, and
+spirits. Ethnic Studies is incomplete without the contributions of women
+of color thinkers and artists, for they make meaning of survival and
+make imagining different futures possible. They have made a politics out
+of the practices of identifying interlocking struggles and forging
+relations across difference in the fight for liberation.
