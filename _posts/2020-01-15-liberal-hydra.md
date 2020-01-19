@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 comments: false
-title: "Ethnic Studies and the Liberal Hydra"
+title: "Ethnic Studies in the Face of the Liberal Hydra"
 summary: ""
 pid: rt7
 permalink: /roundtable/liberal-hydra/
