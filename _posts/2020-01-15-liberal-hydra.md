@@ -172,8 +172,7 @@ Ethnic Studies, when it has preserved its
 emancipatory impetus, has always been and must continue to be something
 beyond “ethnic studies.” I have proposed conceiving Ethnic Studies as a
 form of decolonial transdisciplinarity—see the wonderful special issue
-on the [50<sup>th</sup>* *anniversary of Ethnic
-Studies](https://esr.ucpress.edu/content/42/2) in the *Ethnic Studies
+on the <a href="https://esr.ucpress.edu/content/42/2" target="_blank">50<sup>th</sup> anniversary of Ethnic Studies</a> in the *Ethnic Studies
 Review* co-edited by Xamuel Bañales and Leece Lee-Oliver. The “trans”
 indicates both the transgression and the transcendence of established
 disciplines, while decoloniality points to commitments with the projects
@@ -260,8 +259,7 @@ Ethnic Studies in the academy. This vision and mission, grounded in
 struggles for emancipation and decolonization in the U.S. and across the
 Global South, including the south in the north, and oriented by the
 desire for “building the world of *you*,” to cite Frantz Fanon, continue
-to be offered as part of the solution. It is time to take it with the
-seriousness that it deserves.
+to be offered as part of the solution. It is time to take Ethnic Studies' fields and projects with the seriousness that they deserve.
 
 Along with efforts to eradicate neofascism and to challenge racial
 neoliberalism, including the increased costs of education, this
