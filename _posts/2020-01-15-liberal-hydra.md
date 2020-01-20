@@ -17,7 +17,7 @@ authors:
 
 In this final installment for the Ethnic Studies Rise roundtable, Nelson
 Maldonado-Torres (Rutgers U and Fanon Foundation) and Yomaira
-Figueroa-Vasquez (Michigan State University) situate Ethnic Studies in
+Figueroa-Vásquez (Michigan State University) situate Ethnic Studies in
 longer histories of struggle for justice in and outside of the U.S.
 academy, and against the white supremacy and Eurocentrism of the modern
 university. They foreground the marginalization of Ethnic Studies
@@ -31,7 +31,7 @@ university.
 
 ### Nelson Maldonado-Torres | Writes:
 
-Any decent history of the university in the United States, and, indeed,
+Any decent history of the university in the United States, and indeed
 in the Western world, will have to count Ethnic Studies as one of the
 most original and influential contributions of the U.S. academy to the
 array of fields and sciences that constitute the modern Western
