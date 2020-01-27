@@ -9,10 +9,10 @@ permalink: /roundtable/afterword/
 authors:
   - name: Katerina Gonzalez Seligmann
     img: katerina-gonzalez.jpg
-    bio: "Katerina Gonzalez Seligmann is an assistant professor of Latin American, Caribbean, and U.S. Latinx literature at Emerson College who specializes in Caribbean and Caribbean diaspora literature, history, and social theory. She is currently completing a book about pan-Caribbean discourse in literary magazines produced in English, Spanish, and French. Her essays appear or are forthcoming in <em>South Atlantic Quarterly</em>, <em>MLN</em>, <em>Small Axe</em>, <em>The Global South</em>, and <em>Inti</em>. She co-edited with Clement White a Special Issue on Nicolás Guillén of the <em>C. L. R. James Journal</em> (2015), and she is the translator of <em>Spinning Mill</em> (Cardboard House Press, 2019), a collection of poems by acclaimed Cuban author Legna Rodríguez Iglesias.</em>."
+    bio: "Katerina Gonzalez Seligmann is an assistant professor of Latin American, Caribbean, and U.S. Latinx literature at Emerson College who specializes in Caribbean and Caribbean diaspora literature, history, and social theory. She is currently completing a book about pan-Caribbean discourse in literary magazines produced in English, Spanish, and French. Her essays appear or are forthcoming in <em>South Atlantic Quarterly</em>, <em>MLN</em>, <em>Small Axe</em>, <em>The Global South</em>, and <em>Inti</em>. She co-edited with Clement White a Special Issue on Nicolás Guillén of the <em>C. L. R. James Journal</em> (2015), and she is the translator of <em>Spinning Mill</em> (Cardboard House Press, 2019), a collection of poems by acclaimed Cuban author Legna Rodríguez Iglesias.</em>"
   - name: Raj Chetty
     img: raj-chetty.jpg
-    bio: "Raj Chetty is an assistant professor of Black Literature and Culture at San Diego State University who specializes in Caribbean literature with a focus on the black and African diaspora. He is finishing his first book, <em>“On Refusal and Recognition”: Disparate Blackness in Dominican Literary and Expressive Cultures</em>, and beginning work on a second book, <em>The Entry of the Chorus: Theatrical Legacies of C. L. R. James’s The Black Jacobins</em>. With Amaury Rodríguez he is co-editor of a special issue of <em>The Black Scholar</em> on “Dominican Black Studies,” and his essays appear in <em>Small Axe</em>, <em>Callaloo, Palimpsest: A Journal on Women, Gender, and the Black International, Afro-Hispanic Review, and Meridional: Revista Chilena de Estudios Latinoamericanos</em>."
+    bio: "Raj Chetty is an assistant professor of Black Literature and Culture at San Diego State University who specializes in Caribbean literature with a focus on the Black and African diaspora. He is finishing his first book, <em>“On Refusal and Recognition”: Disparate Blackness in Dominican Literary and Expressive Cultures</em>, and beginning work on a second book, <em>The Entry of the Chorus: Theatrical Legacies of C. L. R. James’s The Black Jacobins</em>. With Amaury Rodríguez he is co-editor of a special issue of <em>The Black Scholar</em> on “Dominican Black Studies,” and his essays appear in <em>Small Axe</em>, <em>Callaloo, Palimpsest: A Journal on Women, Gender, and the Black International, Afro-Hispanic Review, and Meridional: Revista Chilena de Estudios Latinoamericanos</em>."
   - name: Alex Gil
     img: alex-gil.jpg
     bio: "Alex Gil is the Digital Scholarship Librarian for Columbia University. He specializes in techno-social miracles in the humanities and the surrealist poetry of the Caribbean. Some say he is a hummingbird in human form, but those are legends."
@@ -86,7 +86,7 @@ Far from investing in the transformative potential of Ethnic Studies,
 most institutions of higher education, like corporations more broadly,
 have tapped into a discourse of diversity, inclusion, and equity while
 simultaneously undermining the scholarship---and the
-scholars---challenging the long history of Eurocentrism, antiblack
+scholars---challenging the long history of Eurocentrism, anti-Black
 racism, imperial capitalist extraction, patriarchy, settler colonialism,
 hetero- and cis-normativity, classist elitism, and ableism that
 structure the university to this day. The institutional rhetoric of
